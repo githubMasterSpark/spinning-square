@@ -1,3 +1,3 @@
 export default function About() {
-    return <h1>Hello Next.js!</h1>
+    return <h1>About page</h1>
   }
