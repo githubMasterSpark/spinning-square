@@ -1,3 +1,3 @@
 export default function Pineapple() {
-    return <h1>Hello Next.js!</h1>
+    return <h1>Insert picture of a pineapple</h1>
   }

@@ -7,7 +7,7 @@ export default function Navbar() {
             <h1>Spinning Square</h1>
             <Link href="/">Home</Link>
             <Link href="/about">About</Link>
-            <Link href="/contact">Pineapple</Link>
+            <Link href="/pineapple">Pineapple</Link>
         </nav>
     );
 }
