@@ -1,3 +1,8 @@
 export default function About() {
-    return <h1>About page</h1>
+    return (
+      <div>
+        <h1>About Page</h1>
+        <p>Created for COGS125.</p>
+      </div>
+    )
   }
