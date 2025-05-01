@@ -5,7 +5,7 @@ const nextConfig = {
     unoptimized: true, // Disable default image optimization
     domains: ['upload.wikimedia.org'] // wikimedia images
   },
-  assetPrefix: isProd ? '/spinning-square' : '',
+  assetPrefix: isProd ? 'https://githubmasterspark.github.io/spinning-square' : '',
   basePath: isProd ? '/spinning-square' : '',
   output: 'export'
 };
