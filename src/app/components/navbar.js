@@ -5,9 +5,9 @@ export default function Navbar() {
     return (
         <nav className={styles.navbar}>
             <h1>Spinning Square</h1>
-            <Link href="/">Home</Link>
-            <Link href="/about">About</Link>
-            <Link href="/pineapple">Pineapple</Link>
+            <Link href="./">Home</Link>
+            <Link href="./about">About</Link>
+            <Link href="./pineapple">Pineapple</Link>
         </nav>
     );
 }
